@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmdshbrddctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmdshbrddctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDshbrdDctr.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:22:09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

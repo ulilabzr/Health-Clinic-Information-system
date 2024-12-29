@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\model\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\model\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\controller\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\controller\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\controller\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\controller\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\model\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\model\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmaddmdcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmaddmdcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmadmstrnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmadmstrnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmappntmntbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmappntmntbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmdshbrdadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmdshbrdadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmmdclrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmmdclrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmprctcschdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmprctcschdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmprscrption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmprscrption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmrgstptnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmrgstptnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmdshbrddctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmdshbrddctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmdshbrddctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmdshbrddctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Program.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Program.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Program.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:54:43.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\DoctorRepository.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\DoctorRepository.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\DoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:54:01.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\AdminRepository.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\AdminRepository.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:53:38.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\AdminController.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\AdminController.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\AdminController.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:53:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\DoctorController.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\DoctorController.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:53:01.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\PatientController.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\PatientController.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\PatientController.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:50:54.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Context\\DbContext.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Context\\DbContext.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Context\\DbContext.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Context\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:50:28.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\PatientRepository.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\PatientRepository.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:49:55.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\Patient.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\Patient.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\Patient.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:48:11.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmLogin.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmLogin.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:39:11.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmAdmstrnt.cs [Design]",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAdmstrnt.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAdmstrnt.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAdmstrnt.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAdmstrnt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:30:45.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmAddMdcn.cs [Design]",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAddMdcn.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAddMdcn.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAddMdcn.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAddMdcn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:30:40.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmMdclRecord.cs [Design]",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdclRecord.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdclRecord.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdclRecord.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdclRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:30:34.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmPrctcSchdl.cs [Design]",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrctcSchdl.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrctcSchdl.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrctcSchdl.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrctcSchdl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:30:30.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmDshbrdAdmin.cs [Design]",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdAdmin.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdAdmin.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdAdmin.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:28:19.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmAppntmntBooking.cs [Design]",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAppntmntBooking.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAppntmntBooking.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAppntmntBooking.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAppntmntBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:28:32.053Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmLogin.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:27:40.043Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmPrscrption.cs [Design]",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrscrption.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrscrption.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrscrption.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrscrption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:30:26.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmRgstPtnt.cs [Design]",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmRgstPtnt.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmRgstPtnt.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmRgstPtnt.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmRgstPtnt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:30:19.369Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmDshbrdDctr.cs [Design]",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:28:26.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmDshbrdDctr.cs",
+              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:22:09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

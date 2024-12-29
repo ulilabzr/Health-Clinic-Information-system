@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Visual\FrmAddMdcn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\FrmAdmstrnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\FrmAppntmntBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\FrmDshbrdAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\FrmDshbrdDctr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\FrmMdclRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\FrmMdcnList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\FrmPrctcSchdl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\FrmPrscrption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\FrmRgstPtnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

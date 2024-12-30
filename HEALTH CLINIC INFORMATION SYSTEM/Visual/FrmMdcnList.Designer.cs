@@ -29,9 +29,11 @@
         private void InitializeComponent()
         {
             button2 = new Button();
-            button1 = new Button();
-            listView1 = new ListView();
+            btnAddMedicine = new Button();
             label1 = new Label();
+            btnDelete = new Button();
+            dataGridViewMedicines = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewMedicines).BeginInit();
             SuspendLayout();
             // 
             // button2
@@ -43,22 +45,15 @@
             button2.Text = "home";
             button2.UseVisualStyleBackColor = true;
             // 
-            // button1
+            // btnAddMedicine
             // 
-            button1.Location = new Point(662, 487);
-            button1.Name = "button1";
-            button1.Size = new Size(241, 53);
-            button1.TabIndex = 15;
-            button1.Text = "Add Medicine";
-            button1.UseVisualStyleBackColor = true;
-            // 
-            // listView1
-            // 
-            listView1.Location = new Point(48, 133);
-            listView1.Name = "listView1";
-            listView1.Size = new Size(855, 293);
-            listView1.TabIndex = 14;
-            listView1.UseCompatibleStateImageBehavior = false;
+            btnAddMedicine.Location = new Point(662, 487);
+            btnAddMedicine.Name = "btnAddMedicine";
+            btnAddMedicine.Size = new Size(241, 53);
+            btnAddMedicine.TabIndex = 15;
+            btnAddMedicine.Text = "Add Medicine";
+            btnAddMedicine.UseVisualStyleBackColor = true;
+            btnAddMedicine.Click += btnAddMedicine_Click;
             // 
             // label1
             // 
@@ -72,18 +67,38 @@
             label1.TabIndex = 13;
             label1.Text = "Medicine List";
             // 
+            // btnDelete
+            // 
+            btnDelete.Location = new Point(355, 487);
+            btnDelete.Name = "btnDelete";
+            btnDelete.Size = new Size(133, 53);
+            btnDelete.TabIndex = 17;
+            btnDelete.Text = "Delete";
+            btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
+            // 
+            // dataGridViewMedicines
+            // 
+            dataGridViewMedicines.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewMedicines.Location = new Point(24, 87);
+            dataGridViewMedicines.Name = "dataGridViewMedicines";
+            dataGridViewMedicines.Size = new Size(608, 237);
+            dataGridViewMedicines.TabIndex = 18;
+            // 
             // FrmMdcnList
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Frame_1__2_;
             ClientSize = new Size(951, 577);
+            Controls.Add(dataGridViewMedicines);
+            Controls.Add(btnDelete);
             Controls.Add(button2);
-            Controls.Add(button1);
-            Controls.Add(listView1);
+            Controls.Add(btnAddMedicine);
             Controls.Add(label1);
             Name = "FrmMdcnList";
             Text = "FrmMdcnList";
+            ((System.ComponentModel.ISupportInitialize)dataGridViewMedicines).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -91,8 +106,9 @@
         #endregion
 
         private Button button2;
-        private Button button1;
-        private ListView listView1;
+        private Button btnAddMedicine;
         private Label label1;
+        private Button btnDelete;
+        private DataGridView dataGridViewMedicines;
     }
 }

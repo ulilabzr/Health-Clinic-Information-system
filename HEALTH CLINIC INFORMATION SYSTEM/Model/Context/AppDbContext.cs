@@ -6,6 +6,7 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Context
     public class AppDbContext : DbContext
     {
         public DbSet<UserModel> Users { get; set; }
+        public DbSet<MedicineModel> Medicine { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿ using System.ComponentModel.DataAnnotations;
 
 namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Entity
 {

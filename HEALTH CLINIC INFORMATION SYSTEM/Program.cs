@@ -14,7 +14,10 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Visual
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoginForm());
+            /*Application.Run(new FrmAddMdcn());*/
+            /* Application.Run(new LoginForm());*/
+            Application.Run(new FrmMdcnList());
+
         }
     }
 }

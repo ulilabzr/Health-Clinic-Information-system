@@ -30,15 +30,15 @@
         {
             label1 = new Label();
             label2 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
+            txtMedicineName = new TextBox();
+            txtStock = new TextBox();
             label3 = new Label();
-            textBox3 = new TextBox();
+            txtPrice = new TextBox();
             label4 = new Label();
             label5 = new Label();
-            comboBox1 = new ComboBox();
-            button1 = new Button();
-            button2 = new Button();
+            cmbType = new ComboBox();
+            btnSave = new Button();
+            btnReset = new Button();
             SuspendLayout();
             // 
             // label1
@@ -65,21 +65,21 @@
             label2.TabIndex = 1;
             label2.Text = "Medicine Name";
             // 
-            // textBox1
+            // txtMedicineName
             // 
-            textBox1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            textBox1.Location = new Point(62, 123);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(249, 29);
-            textBox1.TabIndex = 2;
+            txtMedicineName.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtMedicineName.Location = new Point(62, 123);
+            txtMedicineName.Name = "txtMedicineName";
+            txtMedicineName.Size = new Size(249, 29);
+            txtMedicineName.TabIndex = 2;
             // 
-            // textBox2
+            // txtStock
             // 
-            textBox2.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            textBox2.Location = new Point(459, 123);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(249, 29);
-            textBox2.TabIndex = 4;
+            txtStock.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtStock.Location = new Point(459, 123);
+            txtStock.Name = "txtStock";
+            txtStock.Size = new Size(249, 29);
+            txtStock.TabIndex = 4;
             // 
             // label3
             // 
@@ -93,13 +93,13 @@
             label3.TabIndex = 3;
             label3.Text = "Stock";
             // 
-            // textBox3
+            // txtPrice
             // 
-            textBox3.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            textBox3.Location = new Point(459, 228);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(249, 29);
-            textBox3.TabIndex = 6;
+            txtPrice.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtPrice.Location = new Point(459, 228);
+            txtPrice.Name = "txtPrice";
+            txtPrice.Size = new Size(249, 29);
+            txtPrice.TabIndex = 6;
             // 
             // label4
             // 
@@ -125,32 +125,34 @@
             label5.TabIndex = 7;
             label5.Text = "Type";
             // 
-            // comboBox1
+            // cmbType
             // 
-            comboBox1.Font = new Font("Segoe UI", 12F);
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(62, 234);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(249, 29);
-            comboBox1.TabIndex = 8;
+            cmbType.Font = new Font("Segoe UI", 12F);
+            cmbType.FormattingEnabled = true;
+            cmbType.Items.AddRange(new object[] { "Table", "Capsule", "Ointment", "Bottle" });
+            cmbType.Location = new Point(62, 234);
+            cmbType.Name = "cmbType";
+            cmbType.Size = new Size(249, 29);
+            cmbType.TabIndex = 8;
             // 
-            // button1
+            // btnSave
             // 
-            button1.Location = new Point(509, 289);
-            button1.Name = "button1";
-            button1.Size = new Size(199, 49);
-            button1.TabIndex = 9;
-            button1.Text = "Save Medicine";
-            button1.UseVisualStyleBackColor = true;
+            btnSave.Location = new Point(509, 289);
+            btnSave.Name = "btnSave";
+            btnSave.Size = new Size(199, 49);
+            btnSave.TabIndex = 9;
+            btnSave.Text = "Save Medicine";
+            btnSave.UseVisualStyleBackColor = true;
+            btnSave.Click += btnSave_Click;
             // 
-            // button2
+            // btnReset
             // 
-            button2.Location = new Point(369, 289);
-            button2.Name = "button2";
-            button2.Size = new Size(134, 49);
-            button2.TabIndex = 10;
-            button2.Text = "Reset";
-            button2.UseVisualStyleBackColor = true;
+            btnReset.Location = new Point(369, 289);
+            btnReset.Name = "btnReset";
+            btnReset.Size = new Size(134, 49);
+            btnReset.TabIndex = 10;
+            btnReset.Text = "Reset";
+            btnReset.UseVisualStyleBackColor = true;
             // 
             // FrmAddMdcn
             // 
@@ -158,15 +160,15 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Frame_1__2_;
             ClientSize = new Size(951, 577);
-            Controls.Add(button2);
-            Controls.Add(button1);
-            Controls.Add(comboBox1);
+            Controls.Add(btnReset);
+            Controls.Add(btnSave);
+            Controls.Add(cmbType);
             Controls.Add(label5);
-            Controls.Add(textBox3);
+            Controls.Add(txtPrice);
             Controls.Add(label4);
-            Controls.Add(textBox2);
+            Controls.Add(txtStock);
             Controls.Add(label3);
-            Controls.Add(textBox1);
+            Controls.Add(txtMedicineName);
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "FrmAddMdcn";
@@ -179,14 +181,14 @@
 
         private Label label1;
         private Label label2;
-        private TextBox textBox1;
-        private TextBox textBox2;
+        private TextBox txtMedicineName;
+        private TextBox txtStock;
         private Label label3;
-        private TextBox textBox3;
+        private TextBox txtPrice;
         private Label label4;
         private Label label5;
-        private ComboBox comboBox1;
-        private Button button1;
-        private Button button2;
+        private ComboBox cmbType;
+        private Button btnSave;
+        private Button btnReset;
     }
 }

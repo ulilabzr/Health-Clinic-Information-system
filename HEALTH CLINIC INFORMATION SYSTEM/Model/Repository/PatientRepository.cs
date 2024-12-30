@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Context;
+using HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Entity;
 
 namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Repository
 {
@@ -20,17 +22,19 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Repository
             int result = 0;
 
             // deklarasi perintah SQL
-            string sql = @"INSERT INTO patient(name, date_birth, gender, address, phone) VALUES (@name, @date_birth, @gender, @address, @phone)";
+            string sql = @"INSERT INTO patient(patient_id, name, date_of_birth, gender, address, phone_number, email) VALUES (@patient_id, @name, @date_of_birth, @gender, @address, @phone_number, @email)";
 
             // membuat objek command menggunakan blok using
             using (MySqlCommand cmd = new MySqlCommand(sql, _conn))
             {
                 // mendaftarkan parameter dan mengeset nilainya
+                cmd.Parameters.AddWithValue("@patient_id", _pasien.PatientId);
                 cmd.Parameters.AddWithValue("@name", _pasien.Name);
-                cmd.Parameters.AddWithValue("@date_birth", _pasien.Date_Birth);
+                cmd.Parameters.AddWithValue("@date_of_birth", _pasien.Date_of_birth);
                 cmd.Parameters.AddWithValue("@gender", _pasien.Gender);
                 cmd.Parameters.AddWithValue("@address", _pasien.Address);
-                cmd.Parameters.AddWithValue("@phone", _pasien.Phone);
+                cmd.Parameters.AddWithValue("@phone_number", _pasien.Phone);
+                cmd.Parameters.AddWithValue("@email", _pasien.Email);
                 try
                 {
                     // jalankan perintah INSERT dan tampung hasilnya ke dalam variabel result
@@ -56,17 +60,18 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Repository
         {
             int result = 0;
             // deklarasi perintah SQL
-            string sql = @"UPDATE patient SET name=@name, date_birth=@date_birth, gender=@gender, address=@address, phone=@phone WHERE id=@id";
+            string sql = @"UPDATE patient SET name=@name, date_of_birth=@date_of_birth, gender=@gender, address=@address, phone_number=@phone_number, email=@email WHERE patient_id=@patient_id";
             // membuat objek command menggunakan blok using
             using (MySqlCommand cmd = new MySqlCommand(sql, _conn))
             {
                 // mendaftarkan parameter dan mengeset nilainya
-                cmd.Parameters.AddWithValue("@id", _pasien.Id);
+                cmd.Parameters.AddWithValue("@patient_id", _pasien.PatientId);
                 cmd.Parameters.AddWithValue("@name", _pasien.Name);
-                cmd.Parameters.AddWithValue("@date_birth", _pasien.Date_Birth);
+                cmd.Parameters.AddWithValue("@date_of_birth", _pasien.Date_of_birth);
                 cmd.Parameters.AddWithValue("@gender", _pasien.Gender);
                 cmd.Parameters.AddWithValue("@address", _pasien.Address);
-                cmd.Parameters.AddWithValue("@phone", _pasien.Phone);
+                cmd.Parameters.AddWithValue("@phone_number", _pasien.Phone);
+                cmd.Parameters.AddWithValue("@email", _pasien.Email);
                 try
                 {
                     // jalankan perintah UPDATE dan tampung hasilnya ke dalam variabel result
@@ -92,12 +97,12 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Repository
         {
             int result = 0;
             // deklarasi perintah SQL
-            string sql = @"DELETE FROM patient WHERE id=@id";
+            string sql = @"DELETE FROM patient WHERE patient_id=@patient_id";
             // membuat objek command menggunakan blok using
             using (MySqlCommand cmd = new MySqlCommand(sql, _conn))
             {
                 // mendaftarkan parameter dan mengeset nilainya
-                cmd.Parameters.AddWithValue("@id", _pasien.Id);
+                cmd.Parameters.AddWithValue("@patient_id", _pasien.PatientId);
                 try
                 {
                     // jalankan perintah DELETE dan tampung hasilnya ke dalam variabel result
@@ -118,7 +123,7 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Repository
             try
             {
                 // deklarasi perintah SQL
-                string sql = @"SELECT id, name, date_birth, gender, address, phone FROM patient ORDER BY id";
+                string sql = @"SELECT * FROM patient ORDER BY patient_id";
 
                 // membuat objek command menggunakan blok using
                 using (MySqlCommand cmd = new MySqlCommand(sql, _conn))
@@ -132,12 +137,13 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Repository
                             // proses konversi dari row result set ke object
                             Patient _pasien = new Patient
                             {
-                                Id = dtr["id"].ToString(),
+                                PatientId = dtr["patient_id"].ToString(),
                                 Name = dtr["name"].ToString(),
-                                Date_Birth = DateTime.Parse(dtr["date_birth"].ToString()),
+                                Date_of_birth = dtr["date_of_birth"].ToString(),
                                 Gender = dtr["gender"].ToString(),
                                 Address = dtr["address"].ToString(),
-                                Phone = dtr["phone"].ToString()
+                                Phone = dtr["phone"].ToString(),
+                                Email = dtr["email"].ToString()
                             };
 
                             // tambahkan objek mahasiswa ke dalam collection
@@ -175,12 +181,13 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Model.Repository
                             // proses konversi dari row result set ke object
                             Patient _pasien = new Patient
                             {
-                                Id = dtr["id"].ToString(),
+                                PatientId = dtr["patient_id"].ToString(),
                                 Name = dtr["name"].ToString(),
-                                Date_Birth = DateTime.Parse(dtr["date_birth"].ToString()),
+                                Date_of_birth = dtr["date_of_birth"].ToString(),
                                 Gender = dtr["gender"].ToString(),
                                 Address = dtr["address"].ToString(),
-                                Phone = dtr["phone"].ToString()
+                                Phone = dtr["phone"].ToString(),
+                                Email = dtr["email"].ToString()
                             };
                             // tambahkan objek mahasiswa ke dalam collection
                             list.Add(_pasien);

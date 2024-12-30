@@ -34,14 +34,14 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Visual
                     MessageBox.Show("Login successful! Redirecting to Admin Dashboard.");
                     FrmDshbrdAdmin adminDashboard = new FrmDshbrdAdmin();
                     adminDashboard.Show();
-                    this.Hide(); // Optional: hide login form
+                    this.Close(); 
                 }
                 else
                 {
                     MessageBox.Show("Login successful! Redirecting to Doctor Dashboard.");
                     FrmDshbrdDctr doctorDashboard = new FrmDshbrdDctr();
                     doctorDashboard.Show();
-                    this.Hide(); // Optional: hide login form
+                    this.Close(); 
                 }
             }
             else

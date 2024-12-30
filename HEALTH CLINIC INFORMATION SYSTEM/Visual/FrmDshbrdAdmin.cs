@@ -31,5 +31,13 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Visual
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Berhasil Logout");
+            LoginForm loginpage = new LoginForm();
+            loginpage.Show();
+            this.Close();
+        }
     }
 }

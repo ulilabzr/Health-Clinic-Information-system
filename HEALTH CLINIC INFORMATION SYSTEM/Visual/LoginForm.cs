@@ -29,13 +29,27 @@ namespace HEALTH_CLINIC_INFORMATION_SYSTEM.Visual
             var isAuthenticated = await _loginController.AuthenticateAsync(txtUsername.Text, txtPassword.Text);
             if (isAuthenticated)
             {
-                MessageBox.Show("Login successful!");
-                // Lanjutkan ke form berikutnya atau halaman utama aplikasi
+                if (txtUsername.Text == "admin" && txtPassword.Text == "admin")
+                {
+                    MessageBox.Show("Login successful! Redirecting to Admin Dashboard.");
+                    FrmDshbrdAdmin adminDashboard = new FrmDshbrdAdmin();
+                    adminDashboard.Show();
+                    this.Hide(); // Optional: hide login form
+                }
+                else
+                {
+                    MessageBox.Show("Login successful! Redirecting to Doctor Dashboard.");
+                    FrmDshbrdDctr doctorDashboard = new FrmDshbrdDctr();
+                    doctorDashboard.Show();
+                    this.Hide(); // Optional: hide login form
+                }
             }
             else
             {
                 MessageBox.Show("Login failed. Please check your username and password.");
             }
         }
+
     }
 }
+

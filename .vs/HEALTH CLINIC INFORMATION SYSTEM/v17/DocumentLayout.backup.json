@@ -1,10 +1,130 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\",
+  "WorkspaceRootPath": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|r:\\materi perkuliahan\\semester 3\\pemrograman lanjut (praktikum)\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\frmdshbrddctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmdshbrddctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\model\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\model\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\model\\entity\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\entity\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\model\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\visual\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\health clinic information system\\visual\\frmdshbrdadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmdshbrdadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\health clinic information system\\visual\\frmdshbrddctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmdshbrddctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\model\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\model\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\model\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\controller\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\controller\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\health clinic information system\\visual\\frmappntmntbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmappntmntbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\health clinic information system\\visual\\frmrgstptnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmrgstptnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\health clinic information system\\visual\\frmprctcschdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmprctcschdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\health clinic information system\\visual\\frmmdcnlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmmdcnlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\health clinic information system\\visual\\frmmdclrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmmdclrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\health clinic information system\\visual\\frmaddmdcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmaddmdcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\health clinic information system\\visual\\frmadmstrnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmadmstrnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\health clinic information system\\visual\\frmprscrption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\visual\\frmprscrption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\resources\\material-symbols_home-rounded.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\resources\\material-symbols_home-rounded.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\resources\\group 329.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\resources\\group 329.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\resources\\group 237466.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\resources\\group 237466.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\resources\\frame 22 (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\resources\\frame 22 (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\resources\\frame 1 (2).png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\resources\\frame 1 (2).png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\resources\\fe_logout(1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\resources\\fe_logout(1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\model\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\model\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|f:\\final project\\health clinic information system\\health clinic information system\\health clinic information system\\controller\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1C56E-1289-4D2A-BEAC-0191AB91E522}|HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj|solutionrelative:health clinic information system\\controller\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +134,393 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmDshbrdDctr.cs",
-              "DocumentMoniker": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
-              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
-              "ToolTip": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
-              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\LoginForm.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\LoginForm.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\LoginForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T20:22:09Z",
+              "WhenOpened": "2024-12-29T20:37:53.915Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\LoginForm.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\LoginForm.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:34:54.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\LoginController.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\LoginController.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\LoginController.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:17:54.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\UserRepository.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:16:14.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\IUserRepository.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:15:14.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\UserModel.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\UserModel.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\UserModel.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:29:56.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmRgstPtnt.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmRgstPtnt.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmRgstPtnt.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmRgstPtnt.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmRgstPtnt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:36:38.35Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmMdclRecord.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdclRecord.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdclRecord.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdclRecord.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdclRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:34:54.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmDshbrdAdmin.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdAdmin.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdAdmin.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdAdmin.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:30:04.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAppntmntBooking.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAppntmntBooking.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAppntmntBooking.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAppntmntBooking.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAppntmntBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:30:03.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmMdcnList.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdcnList.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdcnList.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdcnList.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmMdcnList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:22:40.309Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmPrctcSchdl.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrctcSchdl.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrctcSchdl.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrctcSchdl.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrctcSchdl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:22:36.236Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "material-symbols_home-rounded.png -  [English (United States)] - PNG [100x100, 32 bit, PNG]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\material-symbols_home-rounded.png",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\material-symbols_home-rounded.png",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\material-symbols_home-rounded.png -  [English (United States)] - PNG [100x100, 32 bit, PNG]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\material-symbols_home-rounded.png -  [English (United States)] - PNG [100x100, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-29T08:22:04.141Z",
+              "EditorCaption": " -  [English (United States)] - PNG [100x100, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Group 329.png -  [English (United States)] - PNG [502x643, 32 bit, PNG]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Group 329.png",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Group 329.png",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Group 329.png -  [English (United States)] - PNG [502x643, 32 bit, PNG]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Group 329.png -  [English (United States)] - PNG [502x643, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-29T08:22:02.723Z",
+              "EditorCaption": " -  [English (United States)] - PNG [502x643, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Group 237466.png -  [English (United States)] - PNG [392x87, 32 bit, PNG]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Group 237466.png",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Group 237466.png",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Group 237466.png -  [English (United States)] - PNG [392x87, 32 bit, PNG]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Group 237466.png -  [English (United States)] - PNG [392x87, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-29T08:22:01.666Z",
+              "EditorCaption": " -  [English (United States)] - PNG [392x87, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Frame 22 (1).png -  [English (United States)] - PNG [212x212, 32 bit, PNG]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Frame 22 (1).png",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Frame 22 (1).png",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Frame 22 (1).png -  [English (United States)] - PNG [212x212, 32 bit, PNG]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Frame 22 (1).png -  [English (United States)] - PNG [212x212, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-29T08:22:00.758Z",
+              "EditorCaption": " -  [English (United States)] - PNG [212x212, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Frame 1 (2).png -  [English (United States)] - PNG [967x616, 32 bit, PNG]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Frame 1 (2).png",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Frame 1 (2).png",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Frame 1 (2).png -  [English (United States)] - PNG [967x616, 32 bit, PNG]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\Frame 1 (2).png -  [English (United States)] - PNG [967x616, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-29T08:21:59.603Z",
+              "EditorCaption": " -  [English (United States)] - PNG [967x616, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "fe_logout(1).png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\fe_logout(1).png",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\fe_logout(1).png",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Resources\\fe_logout(1).png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Resources\\fe_logout(1).png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-29T08:21:21.026Z",
+              "EditorCaption": " -  [English (United States)] - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Program.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Program.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Program.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:54:43.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\DoctorRepository.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\DoctorRepository.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\DoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:54:01.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\AdminRepository.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\AdminRepository.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:53:38.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\AdminController.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\AdminController.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\AdminController.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:53:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\DoctorController.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\DoctorController.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:53:01.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\PatientController.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\PatientController.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Controller\\PatientController.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Controller\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:50:54.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Context\\AppDbContext.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:50:28.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\PatientRepository.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\PatientRepository.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Repository\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:49:55.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\Patient.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\Patient.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\Patient.cs",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Model\\Entity\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:48:11.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmAdmstrnt.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAdmstrnt.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAdmstrnt.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAdmstrnt.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAdmstrnt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:30:45.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmAddMdcn.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAddMdcn.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAddMdcn.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAddMdcn.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmAddMdcn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:30:40.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmPrscrption.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrscrption.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrscrption.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrscrption.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmPrscrption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:30:26.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDshbrdDctr.cs [Design]",
+              "DocumentMoniker": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "RelativeDocumentMoniker": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs",
+              "ToolTip": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs [Design]",
+              "RelativeToolTip": "HEALTH CLINIC INFORMATION SYSTEM\\Visual\\FrmDshbrdDctr.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:28:26.087Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

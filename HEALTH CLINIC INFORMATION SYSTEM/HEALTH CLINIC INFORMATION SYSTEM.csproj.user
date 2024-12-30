@@ -16,9 +16,6 @@
     <Compile Update="Visual\FrmDshbrdDctr.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Visual\FrmLogin.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Visual\FrmMdclRecord.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -32,6 +29,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Visual\FrmRgstPtnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visual\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

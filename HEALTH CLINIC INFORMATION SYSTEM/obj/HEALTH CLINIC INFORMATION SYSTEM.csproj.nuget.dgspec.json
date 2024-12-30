@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj": {}
+    "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj": {}
   },
   "projects": {
-    "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj": {
+    "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj",
+        "projectUniqueName": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj",
         "projectName": "HEALTH CLINIC INFORMATION SYSTEM",
-        "projectPath": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "R:\\MATERI PERKULIAHAN\\SEMESTER 3\\Pemrograman Lanjut (Praktikum)\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\obj\\",
+        "projectPath": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "F:\\FINAL PROJECT\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\HEALTH CLINIC INFORMATION SYSTEM\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Software\\VS 2022\\Component\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,6 +44,20 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +77,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

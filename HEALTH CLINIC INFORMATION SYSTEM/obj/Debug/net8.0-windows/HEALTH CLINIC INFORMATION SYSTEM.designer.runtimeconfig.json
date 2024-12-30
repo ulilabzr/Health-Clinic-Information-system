@@ -12,9 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\ACER\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\ACER\\.nuget\\packages",
-      "D:\\Software\\VS 2022\\Component\\NuGetPackages"
+      "C:\\Users\\admin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\admin\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
